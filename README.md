@@ -1,8 +1,8 @@
-# ChatGPT Sorteador de Números
+# Sorteador de Números
 
 Uma simples página web que gera números aleatórios dentro de um intervalo especificado!
 
-![image](https://github.com/Jeanpk12/Sorteador-de-numero/assets/122842874/d924a5c0-28e8-46c0-aceb-bf32c7eeaf76)
+![image](https://github.com/Jeanpk12/Sorteador-de-numero/assets/122842874/4350e234-0d2b-45d4-a89b-c91df4aad468)
 
 ## Como Usar
 
